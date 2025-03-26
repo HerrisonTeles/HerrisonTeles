@@ -1,4 +1,4 @@
-## Olá! Eu sou Herrison Teles, estudante em programação!🐍 
+## Olá! Eu sou Herrison Teles, estudante em segurança da informção 
 
 <div align="center">
   <a href="https://github.com/HerrisonTeles">
